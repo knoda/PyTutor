@@ -1,0 +1,22 @@
+================
+Python入門 Part1 
+================
+
+組み合わせnCrの計算
+===================
+
+
+素数判定
+========
+
+:download:`calc_prime.py <./py/01/calc_prime.py>`
+
+.. literalinclude:: py/01/calc_prime.py
+
+正規乱数の発生
+==============
+
+
+
+
+

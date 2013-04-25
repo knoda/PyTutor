@@ -1,0 +1,32 @@
+================
+Python入門 Part2 
+================
+
+魔方陣の自動生成
+================
+
+
+
+最短経路探索
+============
+
+:download:`dijkstra1.py <./py/02/dijkstra1.py>`
+
+.. literalinclude:: py/02/dijkstra1.py
+
+:download:`dijkstra2.py <./py/02/dijkstra2.py>`
+
+.. literalinclude:: py/02/dijkstra2.py
+
+ハノイの塔
+==========
+
+:download:`hanoi1.py <./py/02/hanoi1.py>`
+
+.. literalinclude:: py/02/hanoi1.py
+
+:download:`hanoi2.py <./py/02/hanoi2.py>`
+
+.. literalinclude:: py/02/hanoi2.py
+
+
